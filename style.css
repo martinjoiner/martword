@@ -689,7 +689,7 @@ ul.hide{list-style-type:none;display:none;}
 
 	.post.type-index,
 	.post.type-single,
-	.post.type-page {
+	.page.type-page {
 		padding: 2em 4em 1em 4em;
 	}
 
@@ -722,7 +722,7 @@ ul.hide{list-style-type:none;display:none;}
 
 	.post.type-index,
 	.post.type-single,
-	.post.type-page {
+	.page.type-page {
 		padding: 2em 2em 1em 2em;
 	}
 	
